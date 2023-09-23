@@ -1,3 +1,6 @@
+%% I got this code from rosetta code
+%% https://www.rosettacode.org/wiki/99_Bottles_of_Beer/Prolog
+
 %% function no bottles
 bottles(0):- write('no more bottles of beer').
 %% function for non-zero number of bottles

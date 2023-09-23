@@ -1,3 +1,6 @@
+// I got this code from here rosetta code
+// https://www.rosettacode.org/wiki/99_bottles_of_beer#Go
+
 package main
 
 import "fmt"
