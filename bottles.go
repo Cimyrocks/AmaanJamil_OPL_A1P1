@@ -22,6 +22,6 @@ func main() {
 		fmt.Printf("%s of beer on the wall\n", bottles(i))
 		fmt.Printf("%s of beer\n", bottles(i))
 		fmt.Printf("Take one down, pass it around\n")
-		fmt.Printf("%s of beer on the wall\n", bottles(i-1), "\n")
+		fmt.Printf("%s of beer on the wall\n\n", bottles(i-1),)
 	}
 }
